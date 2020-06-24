@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Admin from './Admin';
+import Login from './Login';
 
 function App() {
   return (
     <div>
-      <Admin/>
+      <Login/>
     </div>
   );
 }
